@@ -1,0 +1,11 @@
+{
+	"authorization": "vk_access_token_settings=friends,status&vk_app_id=7794757&vk_are_notifications_enabled=1&vk_is_app_user=1&vk_is_favorite=0&vk_language=ru&vk_platform=desktop_web&vk_ref=other&vk_ts=1616979332&vk_user_id=169279129&sign=h3wIdP2Tl545iX6876Zd51XH9LuynYowDXG4zy_jdV0",
+	"my_id": 169279129,
+	"buy_slaves": 1,
+	"buy_fetters": 1,
+	"upgrade_slaves": 1,
+	"min_price": 40,
+	"max_price": 100000,
+	"job": ["vk.com/onlyrab", "https://vk.com/onlyrab", "@club203597887"],
+	"delay": 4.5
+}
